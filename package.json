@@ -1,9 +1,9 @@
 {
-  "name": "@hdtrucvn/htvdtea",
-  "version": "1.0.0",
+  "name": "@hdtrucvn/goergetea",
+  "version": "1.0.1",
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@hdtrucvn",
   "repository": "https://github.com/hdtrucvn/htvdtea.git",
-  "license": "ISC"
+  "license": "MIT"
 }
